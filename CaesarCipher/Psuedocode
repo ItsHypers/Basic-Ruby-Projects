@@ -1,0 +1,7 @@
+Get Inputted String
+
+Turn every letter into a number (a = 1, z = 26)
+
+Take the number, and substract it by the shift, if it does into minus wrap it back to 26.
+
+Turn the number back into a letter

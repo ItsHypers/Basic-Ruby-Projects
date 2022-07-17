@@ -1,0 +1,11 @@
+Parameters: a list of days, with the price of the stock for that day, low or high
+
+Take the prices, and find the lowest price, compare the lowest price with the next price to get the profit for that purchase.
+compare that profit with the next number, if profit is larger, replace day, if lower, skip.
+if lower number than initial one, test if it's more or less profit.
+
+Get Price
+Run through prices, checking best profit, then move onto next number
+If Lower than lowest price and profit is bigger than biggest profit, replace Lowest and profit.
+after all number, put index of lowest price, and biggest profit into array
+return array

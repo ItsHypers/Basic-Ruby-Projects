@@ -1,0 +1,5 @@
+Get inputted String
+
+Split string into seperate array
+
+Loop through seperate string list array, if original string includes word in array, add to array, if its already in array, add 1 to total number.

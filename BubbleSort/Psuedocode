@@ -1,0 +1,9 @@
+Get array of numbers
+
+Loop through array, if current number is bigger than next number, swap them in the array
+
+Loop through that loop x amount of times (x being array length)
+
+
+bundle exec rspec ./Bubble-Sort/bubble-sort-spec.rb
+

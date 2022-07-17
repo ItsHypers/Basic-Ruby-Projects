@@ -1,1 +1,1 @@
-Test code: bundle exec rspec ./Caesar-Cipher/caesar-cipher-spec.rb
+bundle exec rspec ./Bubble-Sort/bubble-sort-spec.rb
